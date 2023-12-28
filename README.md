@@ -1,6 +1,6 @@
 Hi, I’m @tanmaygaikwad723
 I’m interested in backend, and AI.
-I’m currently learning python
+I’m currently learning django and sql
 I’m looking to collaborate on backend projects
 You interested in physics, astronomy, philosophy !? let's have a conversation.
 you can reach me at discord tanmay gaiwkad#7230 

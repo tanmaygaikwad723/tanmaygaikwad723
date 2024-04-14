@@ -1,8 +1,5 @@
 Hi, I’m @tanmaygaikwad723
-<p>I’m interested in backend, and ML.
-I’m currently learning django and sql
-I’m looking to collaborate on backend projects
-You interested in geopolitics, astronomy, philosophy !? let's have a conversation.</p>
+<p>I’m interested in backend, and ML.</p>
 you can reach me at 
 <p>discord :- <strong>@tanmaygaikwad007</strong></p>
 <p>X(formerly twitter) :- <a href="https://x.com/TanmayGaikwd723?t=haP9K8KN26WQ2fwks1NXDg&s=08">TanmayGaikwd723</a></p>
